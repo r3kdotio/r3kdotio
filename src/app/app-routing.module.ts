@@ -2,10 +2,12 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { CaffenieComponent } from './caffenie/caffenie.component';
 
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
+  { path: 'caffenie', component: CaffenieComponent},
   { path: '',
     redirectTo: '/home',
     pathMatch: 'full'
