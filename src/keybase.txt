@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rjdkolb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://r3k.io
+  * I am rjdkolb (https://keybase.io/rjdkolb) on keybase.
+  * I have a public key ASDBedilzVfu6WMsymNimRG8hQl6dgjXkuAEU-321XJJrgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c179d8a5cd57eee9632cca63629911bc85097a7608d792e00453edf6d57249ae0a",
+      "host": "keybase.io",
+      "kid": "0120c179d8a5cd57eee9632cca63629911bc85097a7608d792e00453edf6d57249ae0a",
+      "uid": "f09e479c33ee76d0bd9c354878a9f719",
+      "username": "rjdkolb"
+    },
+    "merkle_root": {
+      "ctime": 1591511454,
+      "hash": "5a3e18b292432f1ad8d60cbc50ceaa670e1b97535d055ff142924135ef36ed350a34835a7ece4a57b39643be3a9434bced6ad2273bfaf50a7deac0c734af3db9",
+      "hash_meta": "c2a19f5c728921afb567f30e7bcb7ac7c98e57a7262d104219c863a7294d27ba",
+      "seqno": 16569578
+    },
+    "service": {
+      "entropy": "P3KTW8ihFc1O5N2j9FbL3Mni",
+      "hostname": "r3k.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1591511480,
+  "expire_in": 504576000,
+  "prev": "055f30489ba04a6b7d2316b8b3dd0a4922e4199a5d17489b01be83c567531bce",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwXnYpc1X7uljLMpjYpkRvIUJenYI15LgBFPt9tVySa4Kp3BheWxvYWTESpcCC8QgBV8wSJugSmt9Ixa4s90KSSLkGZpdF0ibAb6DxWdTG87EIOMKKY70YAUhSgh4C9d4rjuA1QGRUsM3KjnWoSf8HJ2OAgHCo3NpZ8RAfkqB545/g0bCcB7+g1cWH9ycrNfa5RX5rxlu+vX4vx+h5B7YohYlsfmJADcloHmJicHDa3J995MQ2C2fkvZRD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG0b8PO0jInPYaDqR9zb/kFanN8pJkB7R89VsFLLhtgqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rjdkolb
+
+==================================================================
