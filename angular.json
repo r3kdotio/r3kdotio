@@ -21,7 +21,8 @@
             "aot": false,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/keybase.txt"
             ],
             "styles": [
               "node_modules/@clr/icons/clr-icons.min.css",
